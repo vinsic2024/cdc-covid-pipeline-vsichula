@@ -1,0 +1,10 @@
+# Keep the folder, ignore large/raw data
+work/data/*
+!work/data/.gitkeep
+
+# Ignore local outputs if no need to keep to version them
+outputs/*
+!outputs/.gitkeep
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
