@@ -11,7 +11,7 @@ Jupyter notebook that ingests the CDC/NCHS provisional COVID-19 deaths dataset a
    Save it as: `work/data/cdc.csv`
 
 2. **Run the notebook**  
-   Open `notebooks/01_cdc_pipeline.ipynb` in JupyterLab (Python 3.x) and **Run All**.  
+   Open `notebooks/big_data_project_VSICHULA.ipynb` in JupyterLab (Python 3.x) and **Run All**.  
    Figures will be saved to `outputs/figures/` (or next to the notebook if the folder isn’t writable).
 
 ## Repo layout
